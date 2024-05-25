@@ -6,6 +6,7 @@ SQL--great-tracker
 Overview
 
 Welcome to SQL--great-tracker, our in-house solution for efficiently managing employee data within our organization. This command-line application empowers our team to seamlessly handle various tasks related to employee management. Built with Node.js, Inquirer, and PostgreSQL, SQL--great-tracker provides a user-friendly interface for interacting with our employee database.
+https://app.screencastify.com/v2/manage/videos/WUI3M30SkD89ynYZmqpD
 
 Table of Contents
 
